@@ -1,0 +1,2 @@
+# bavariagrandtowers
+Static site: bavariagrandtowers
